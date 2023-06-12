@@ -1,0 +1,33 @@
+.container{
+    border:2px solid rgb(237, 230, 230);
+    padding:1rem;
+    background-image: url("https://i.stack.imgur.com/FxMIC.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100% !important;
+   
+}
+
+h4{
+    width: 30%;
+}
+
+.btn-warning{
+    background-color: #f3bd00!important;
+    color:white!important;
+    
+}
+.fw-bold{
+    margin-top: 1rem;
+}
+.card{
+    padding:0rem 0.8rem 0 0.8rem;
+}
+
+.card img{
+    height:40%;
+    width:100%;
+}
+.card button{
+    height:10% !important;
+    width:20% !important;
+}
